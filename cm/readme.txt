@@ -1,0 +1,1 @@
+gcc -std=gnu89 -pedantic -Wall carica_campo.c main.c genera_campo.c memoria.c partita.c salva_campo.c stampa_campo.c -o campo_minato
